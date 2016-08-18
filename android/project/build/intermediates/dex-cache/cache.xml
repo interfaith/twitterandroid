@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/spowage/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.1.2/7052283359001bb108753cb0583a887d3bf94c82/okhttp-3.1.2.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="7052283359001bb108753cb0583a887d3bf94c82">
+        <dex dex="/home/spowage/twitterandroidout/android/project/build/intermediates/pre-dexed/armv7/debug/okhttp-3.1.2_80d08ac8c795653ef89ef730f11e06f9a042873a.jar" />
+    </item>
+    <item
+        jar="/home/spowage/twitterandroidout/android/project/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/home/spowage/twitterandroidout/android/project/build/intermediates/pre-dexed/armv7/debug/com.android.support-support-v4-24.0.0_f4ec76017327a41ec18515e24424fa43f4972ead.jar" />
+    </item>
+    <item
+        jar="/home/spowage/twitterandroidout/android/project/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/home/spowage/twitterandroidout/android/project/build/intermediates/pre-dexed/armv7/debug/internal_impl-24.0.0_8dec07ff4f191cfb0f0296404442e86c025e9357.jar" />
+    </item>
+    <item
+        jar="/home/spowage/twitterandroidout/android/project/build/intermediates/exploded-aar/org.xwalk/xwalk_core_library/17.46.448.10/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="93c02a576473bbfebd6bf93e53b152f8e8e1a2f6">
+        <dex dex="/home/spowage/twitterandroidout/android/project/build/intermediates/pre-dexed/armv7/debug/org.xwalk-xwalk_core_library-17.46.448.10_9d8534c34adc2e3dc7448685d271dd4bc26ac389.jar" />
+    </item>
+    <item
+        jar="/home/spowage/twitterandroidout/android/project/build/intermediates/exploded-aar/project/CordovaLib/unspecified/debug/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="b415d4a2a062326a06629c7e8a1dcba8d6a78e00">
+        <dex dex="/home/spowage/twitterandroidout/android/project/build/intermediates/pre-dexed/armv7/debug/CordovaLib-unspecified-debug_7c5cce4a29e454c27428e5b263ee2748ddbbd738.jar" />
+    </item>
+    <item
+        jar="/home/spowage/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/home/spowage/twitterandroidout/android/project/build/intermediates/pre-dexed/armv7/debug/okio-1.6.0_4af10c65b124cfd256c21c1ca724473049a93f1c.jar" />
+    </item>
+    <item
+        jar="/home/spowage/.local/share/umake/android/android-sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/home/spowage/twitterandroidout/android/project/build/intermediates/pre-dexed/armv7/debug/support-annotations-24.0.0_daafbc48cbe4d9e7836276f96f5bcce1a5d87d2c.jar" />
+    </item>
+
+</items>

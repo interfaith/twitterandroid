@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "/home/spowage/twitterandroid/.meteor/local/cordova-build/platforms/android/build/intermediates/res/merged/armv7/release/drawable/ic_warning.png",
+        "source": "/home/spowage/twitterandroid/.meteor/local/cordova-build/platforms/android/build/intermediates/exploded-aar/org.xwalk/xwalk_core_library/17.46.448.10/res/drawable/ic_warning.png"
+    },
+    {
+        "merged": "/home/spowage/twitterandroid/.meteor/local/cordova-build/platforms/android/build/intermediates/res/merged/armv7/release/drawable/color_picker_border.xml",
+        "source": "/home/spowage/twitterandroid/.meteor/local/cordova-build/platforms/android/build/intermediates/exploded-aar/org.xwalk/xwalk_core_library/17.46.448.10/res/drawable/color_picker_border.xml"
+    },
+    {
+        "merged": "/home/spowage/twitterandroid/.meteor/local/cordova-build/platforms/android/build/intermediates/res/merged/armv7/release/drawable/dropdown_popup_background_up.9.png",
+        "source": "/home/spowage/twitterandroid/.meteor/local/cordova-build/platforms/android/build/intermediates/exploded-aar/org.xwalk/xwalk_core_library/17.46.448.10/res/drawable/dropdown_popup_background_up.9.png"
+    },
+    {
+        "merged": "/home/spowage/twitterandroid/.meteor/local/cordova-build/platforms/android/build/intermediates/res/merged/armv7/release/drawable/button_compat_shape.xml",
+        "source": "/home/spowage/twitterandroid/.meteor/local/cordova-build/platforms/android/build/intermediates/exploded-aar/org.xwalk/xwalk_core_library/17.46.448.10/res/drawable/button_compat_shape.xml"
+    },
+    {
+        "merged": "/home/spowage/twitterandroid/.meteor/local/cordova-build/platforms/android/build/intermediates/res/merged/armv7/release/drawable/ic_menu_share_holo_light.png",
+        "source": "/home/spowage/twitterandroid/.meteor/local/cordova-build/platforms/android/build/intermediates/exploded-aar/org.xwalk/xwalk_core_library/17.46.448.10/res/drawable/ic_menu_share_holo_light.png"
+    },
+    {
+        "merged": "/home/spowage/twitterandroid/.meteor/local/cordova-build/platforms/android/build/intermediates/res/merged/armv7/release/drawable/bubble_arrow_up.png",
+        "source": "/home/spowage/twitterandroid/.meteor/local/cordova-build/platforms/android/build/intermediates/exploded-aar/org.xwalk/xwalk_core_library/17.46.448.10/res/drawable/bubble_arrow_up.png"
+    },
+    {
+        "merged": "/home/spowage/twitterandroid/.meteor/local/cordova-build/platforms/android/build/intermediates/res/merged/armv7/release/drawable/color_picker_advanced_select_handle.png",
+        "source": "/home/spowage/twitterandroid/.meteor/local/cordova-build/platforms/android/build/intermediates/exploded-aar/org.xwalk/xwalk_core_library/17.46.448.10/res/drawable/color_picker_advanced_select_handle.png"
+    },
+    {
+        "merged": "/home/spowage/twitterandroid/.meteor/local/cordova-build/platforms/android/build/intermediates/res/merged/armv7/release/drawable/bubble.9.png",
+        "source": "/home/spowage/twitterandroid/.meteor/local/cordova-build/platforms/android/build/intermediates/exploded-aar/org.xwalk/xwalk_core_library/17.46.448.10/res/drawable/bubble.9.png"
+    },
+    {
+        "merged": "/home/spowage/twitterandroid/.meteor/local/cordova-build/platforms/android/build/intermediates/res/merged/armv7/release/drawable/verify_checkmark.png",
+        "source": "/home/spowage/twitterandroid/.meteor/local/cordova-build/platforms/android/build/intermediates/exploded-aar/org.xwalk/xwalk_core_library/17.46.448.10/res/drawable/verify_checkmark.png"
+    },
+    {
+        "merged": "/home/spowage/twitterandroid/.meteor/local/cordova-build/platforms/android/build/intermediates/res/merged/armv7/release/drawable/color_button_background.xml",
+        "source": "/home/spowage/twitterandroid/.meteor/local/cordova-build/platforms/android/build/intermediates/exploded-aar/org.xwalk/xwalk_core_library/17.46.448.10/res/drawable/color_button_background.xml"
+    },
+    {
+        "merged": "/home/spowage/twitterandroid/.meteor/local/cordova-build/platforms/android/build/intermediates/res/merged/armv7/release/drawable/autofill_chip_inset.xml",
+        "source": "/home/spowage/twitterandroid/.meteor/local/cordova-build/platforms/android/build/intermediates/exploded-aar/org.xwalk/xwalk_core_library/17.46.448.10/res/drawable/autofill_chip_inset.xml"
+    },
+    {
+        "merged": "/home/spowage/twitterandroid/.meteor/local/cordova-build/platforms/android/build/intermediates/res/merged/armv7/release/drawable/dropdown_popup_background.xml",
+        "source": "/home/spowage/twitterandroid/.meteor/local/cordova-build/platforms/android/build/intermediates/exploded-aar/org.xwalk/xwalk_core_library/17.46.448.10/res/drawable/dropdown_popup_background.xml"
+    },
+    {
+        "merged": "/home/spowage/twitterandroid/.meteor/local/cordova-build/platforms/android/build/intermediates/res/merged/armv7/release/drawable/dropdown_popup_background_down.9.png",
+        "source": "/home/spowage/twitterandroid/.meteor/local/cordova-build/platforms/android/build/intermediates/exploded-aar/org.xwalk/xwalk_core_library/17.46.448.10/res/drawable/dropdown_popup_background_down.9.png"
+    },
+    {
+        "merged": "/home/spowage/twitterandroid/.meteor/local/cordova-build/platforms/android/build/intermediates/res/merged/armv7/release/drawable/ondemand_overlay.9.png",
+        "source": "/home/spowage/twitterandroid/.meteor/local/cordova-build/platforms/android/build/intermediates/exploded-aar/org.xwalk/xwalk_core_library/17.46.448.10/res/drawable/ondemand_overlay.9.png"
+    },
+    {
+        "merged": "/home/spowage/twitterandroid/.meteor/local/cordova-build/platforms/android/build/intermediates/res/merged/armv7/release/drawable/ic_search.png",
+        "source": "/home/spowage/twitterandroid/.meteor/local/cordova-build/platforms/android/build/intermediates/exploded-aar/org.xwalk/xwalk_core_library/17.46.448.10/res/drawable/ic_search.png"
+    }
+]

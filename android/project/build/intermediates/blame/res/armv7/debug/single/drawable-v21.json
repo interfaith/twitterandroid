@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/spowage/twitterandroidout/android/project/build/intermediates/res/merged/armv7/debug/drawable-v21/button_borderless_compat.xml",
+        "source": "/home/spowage/twitterandroidout/android/project/build/intermediates/exploded-aar/org.xwalk/xwalk_core_library/17.46.448.10/res/drawable-v21/button_borderless_compat.xml"
+    },
+    {
+        "merged": "/home/spowage/twitterandroidout/android/project/build/intermediates/res/merged/armv7/debug/drawable-v21/button_compat.xml",
+        "source": "/home/spowage/twitterandroidout/android/project/build/intermediates/exploded-aar/org.xwalk/xwalk_core_library/17.46.448.10/res/drawable-v21/button_compat.xml"
+    }
+]
